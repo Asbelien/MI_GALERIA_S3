@@ -1,0 +1,8 @@
+venv/
+backend/venv/
+.env
+backend/.env
+*.log
+.aws/
+__pycache__/
+*.pyc
